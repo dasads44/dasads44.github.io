@@ -17,8 +17,6 @@ title: Data Driven Dave
 email: david.smith@ndm.ox.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal blog for Dave Smith a 4th Year Phd Student at the Uniesriy of Oxford.
-  I work on the Hepatitis C Virus and anit-viral resistance, but I also have an interest in
-  health and fitness and hwo I can use data to improve this. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
