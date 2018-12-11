@@ -22,8 +22,18 @@ I also have an interest in health, fitness and wellbeing and using data to try o
 
 # Links
 
+<<<<<<< HEAD
 [Google Scholar](https://scholar.google.co.uk/citations?user=2000AA4AAAAJ&hl=en "Dave's Google Scholar Page")
 
 [ORCID](https://orcid.org/0000-0001-7778-7137 "Dave's ORCID Page")
 
 [ResearchGate](https://www.researchgate.net/profile/David_Smith297 "Dave's ResearchGate Page")
+||||||| merged common ancestors
+[Google Scholar]https://scholar.google.co.uk/citations?user=2000AA4AAAAJ&hl=en
+[ORCID]https://orcid.org/0000-0001-7778-7137
+[ResearchGate]https://www.researchgate.net/profile/David_Smith297
+=======
+[Google Scholar](https://scholar.google.co.uk/citations?user=2000AA4AAAAJ&hl=en "Dave's Google Scholar Page")
+[ORCID](https://orcid.org/0000-0001-7778-7137 "Dave's ORCID Page")
+[ResearchGate](https://www.researchgate.net/profile/David_Smith297 "Dave's ResearchGate Page")
+>>>>>>> 0777aa2f7d0a2be937ee5aba92a3aff20eee4c27
